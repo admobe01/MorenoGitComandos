@@ -26,8 +26,27 @@ mkdir examen
 1.cd dos
 2.cp ../una/nombre.txt ../tres
 3.cp ../una/nombre.txt ../tres
-4.
-5.
-6.
-7.
-8.
+
+    4.
+
+1.$ mkdir ./dos/dosUna
+    
+    5.
+
+1. cd dos/dosUna
+
+    6.
+
+1.$ touch ../../edad.txt
+
+    7.
+
+1.  rm ../../tres/nombre.txt
+
+    8.
+
+1. $ mv ../../edad.txt ./edad2.txt
+
+    9.
+
+1.
