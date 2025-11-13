@@ -1,15 +1,33 @@
 1.git clone https://github.com/admobe01/MorenoGitComandos
-2.
-3.
+2.git fetch
+3.git push
+4.git add .
+5.git commit -m ""
+6.git checkout -b "primeras"
+    1.
+
+mkdir examen
+1.cd examen
+2.mkdir una
+3.mkdir dos
+4.mkdir tres
+
+    2.
+
+1.touch ./una/nombre.txt
+2.$ touch ./dos/nombre.txt
+3.touch ./tres/nombre.txt
+4.echo "Comando" >> ./una/nombre.txt
+5.git add .
+6. git commit "Segundo ejer bien hecho"
+
+    3.
+
+1.cd dos
+2.cp ../una/nombre.txt ../tres
+3.cp ../una/nombre.txt ../tres
 4.
 5.
 6.
 7.
 8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
