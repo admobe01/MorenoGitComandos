@@ -49,4 +49,5 @@ mkdir examen
 
     9.
 
-1.
+1.$ cd ~/Documents/1DAW/SisInf/simulacro/MorenoGitComandos
+2.$ rm -r examen
